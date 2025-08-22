@@ -8,7 +8,7 @@ require (
 	github.com/cheggaaa/pb/v3 v3.1.5
 	github.com/cilium/ebpf v0.16.1-0.20241204125435-9895aae6467e
 	github.com/containerd/containerd v1.7.27
-	github.com/docker/docker v27.3.0+incompatible
+	github.com/docker/docker v28.0.0+incompatible
 	github.com/gin-contrib/pprof v1.5.0
 	github.com/gin-gonic/gin v1.10.0
 	github.com/pkg/errors v0.9.1
